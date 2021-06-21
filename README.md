@@ -14,7 +14,7 @@ I've been incorporating ML solutions into my projects to help improve solution m
 
 - A few recent projects have included "translation" functionality and that's something I'd like to do more of. Those projects included an enterprise application UI builder that is platform agnostic but accepts plug-in translators to output to any platform or UI framework (built using vue.js, node.js and compiled as an Electron Mac app) including the ability to incorporate serverless functions and auto-deploy to Azure. 
 - I've recently worked on a cryptocurrency project, built in .NET, that is a "form builder" that is build around a translator to output the form as a fully-fledged smart contract with the goal being to write once-deploy anywhere. This translator app is packaged in a Docker container with a private Ethereum sandbox for users to create a smart contract in the builder and then translate the contract to Solidity, deploy and test without having to understand Ethereum, blockchains, smart contracts or anything technical.
-- I built a firewall running CentOS on a RaspberryPi and a UI app layer (vue/node) that allows an admin to manage the firewall rules remotely. The use-case of the project was to allow company executives and network administrators to detect network peripherals making unauthorized http requests.
+- I built a firewall running CentOS on a RaspberryPi and a UI app layer (vue/node) that allows an admin to manage the firewall rules remotely. The use-case of the project was to allow company executives and network administrators to detect network peripherals making unauthorized HTTP requests.
 
 
 
